@@ -1,6 +1,6 @@
 # ConnectFour
 
-A better simple Java board game than [Apocalypse](https://github.com/icydoge/Apocalypse), which was incomplete. Include an optional simple AI opponent.
+A better simple Java board game than [Apocalypse](https://github.com/chongyangshi/Apocalypse), which was incomplete. Include an optional simple AI opponent.
 
 ## Building and Running
 ``` 
